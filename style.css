@@ -14,4 +14,26 @@ body {
   align-items: center;
 }
 
-/* your CSS below! */
+td {
+  background-color: lightgray;
+  height: 50px;
+  width: 50px;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+
